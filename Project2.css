@@ -1,0 +1,247 @@
+/* body{
+    font-family: Inter;
+} */
+.navigation-bar{
+
+    height: 118px;
+    border-radius: 0px 0px 0px 22px;
+    background:#170A0A;
+    box-shadow: 0px 86px 44px -6px #00000A inset;
+
+}
+
+.navbar-img{
+width: 28.041000366210938px;
+height: 29.250717163085938px;
+top: -468px;
+left: -672px;
+}
+.navbar-atmos{
+width: 289px;
+height: 93px;
+top: 25px;
+left: 84px;
+}
+
+.navbar-items1{
+width: 154px;
+height: 39px;
+top: 40px;
+left: 745px;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.navbar-items2{
+width: 154px;
+height: 39px;
+top: 40px;
+left: 899px;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.navbar-items3{
+width: 154px;
+height: 39px;
+top: 40px;
+left: 1064px;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+.navbar-items4{
+width: 154px;
+height: 39px;
+top: 40px;
+left: 1229px;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.leftimg{
+width: 618px;
+height: 906px;
+top: 79px;
+z-index: -1;
+}
+.rightbox{
+position: relative;
+width: 1038px;
+height: 906px;
+top: -906px;
+left: 457px;
+border-radius: 56px;
+border: 1px;
+z-index: 0;
+background: linear-gradient(0deg, #000000, #000000),
+linear-gradient(0deg, rgba(18, 16, 16, 0.8), rgba(18, 16, 16, 0.8));
+opacity: 0.95;
+}
+.createacc{
+width: 481px;
+height: 89px;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+position: absolute;
+top: 94px;
+left: 94px;
+
+}
+/* background-color: color-mix(in srgb,  #000000 5%, #121010F2 95%); */
+.firstname{
+
+position: relative;
+width: 155px;
+height: 39px;
+top: 236px;
+left: 133px;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+.lastname{
+position: relative;
+width: 155px;
+height: 39px;
+top: 158px;
+left: 575px;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.input-firsttype{
+position: relative;
+width: 342px;
+height: 77px;
+top: 276.25px;
+left: -40px;
+border-radius: 15px;
+background: rgba(255, 255, 255, 0.06);
+}
+
+.input-secondtype{
+    position: relative;
+    width: 342px;
+    height: 77px;
+    top: 200.25px;
+    left: 403px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.06);
+}
+.email{
+position: relative;
+width: 348px;
+height: 27px;
+top: 264px;
+left: 143px;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+.input-email{
+position: relative;
+width: 655px;
+height: 77px;
+top: 305px;
+left: -230px;
+border-radius: 15px;
+background: rgba(255, 255, 255, 0.06);
+}
+.password{
+position: relative;
+width: 155px;
+height: 39px;
+top: 360px;
+left: 310px;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+.input-password{
+position: relative;
+width: 513px;
+height: 77px;
+top: 400px;
+left: 136px;
+border-radius: 15px;
+background: rgba(255, 255, 255, 0.06);  
+}
+.register{
+position: relative;
+width: 155px;
+height: 39px;
+top: 19px;
+left:93.5px;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+.register-button{
+position: relative;
+width: 342px;
+height: 77px;
+top: 450px;
+left: 348px;
+border-radius: 30px;
+border: 4px;
+text-align: center;
+background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%),
+linear-gradient(180deg, rgba(61, 18, 234, 0.38) 47.92%, rgba(66, 64, 159, 0.2) 91.15%);
+}
+.login{
+position: relative;
+width: 376px;
+height: 39px;
+top: 475px;
+left: 365px;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+.rocket{
+position: relative;
+width: 475.0000050261791px;
+height: 600.3364358606665px;
+top: -1450px;
+left: 250px;
+rotate: 27.26deg;
+}
